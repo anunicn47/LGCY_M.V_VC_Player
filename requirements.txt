@@ -1,7 +1,7 @@
 tgcrypto
 asyncio
 ffmpeg-python
-git+https://github.com/LagacyAlex/p-c-op@master
+git+https://github.com/MarshalX/tgcalls@main
 pyrogram
 youtube-search-python
 git+https://github.com/LagacyAlex/y-d-op@master
