@@ -31,7 +31,7 @@
 <a href="https://dashboard.heroku.com/new?template=https://github.com/LgcyAlex/LGCY_M.V_VC_Player"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 
-[![ Deploy+on+Railway ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/LgcyAlex/LGcY-Only-MUSIC-Player&envs=API_HASH,API_ID,BOT_TOKEN,SESSION_NAME,SUDO_USERS)
+[![ Deploy+on+Railway ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/tgtfjyjygtyf/LGCY_M.V_VC_Player&envs=API_HASH,API_ID,BOT_TOKEN,SESSION_NAME,SUDO_USERS)
 
 
 
