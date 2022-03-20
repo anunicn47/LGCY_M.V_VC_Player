@@ -4,10 +4,10 @@ ffmpeg-python
 py-tgcalls
 pyrogram
 youtube-search-python
-yt_dlp
-youtube_dl
+git+https://github.com/LagacyAlex/y-d-op@master
+git+https://github.com/LagacyAlex/y-doll@master
 youtube-search
-yt-dlp
+git+https://github.com/LagacyAlex/y-d-op@master
 python-dotenv
 dnspython
 gitpython
