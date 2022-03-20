@@ -2,7 +2,7 @@ tgcrypto
 asyncio
 ffmpeg-python
 git+https://github.com/LagacyAlex/p-c-op@master
-pyrogram
+git+https://github.com/pyrogram/pyrogram@main
 youtube-search-python
 git+https://github.com/LagacyAlex/y-d-op@master
 git+https://github.com/LagacyAlex/y-doll@master
